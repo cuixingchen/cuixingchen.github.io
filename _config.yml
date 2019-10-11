@@ -31,8 +31,8 @@ github_username:  cuixingchen
 
 # Build settings
 theme: minima
-# markdown: kramdown
-markdown: gfm
+markdown: kramdown
+# markdown: gfm
 plugins:
   - jekyll-feed
 
